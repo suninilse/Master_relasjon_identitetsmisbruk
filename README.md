@@ -2,7 +2,7 @@
 ---
 R-scriptet viser fremgangsmåten og kodene jeg har anvendt i det kvantitative analysearbeidet
 
-I R-scriptet beskriver jeg hva kodene gjør og i hvilket delkapittel i oppgaven man kan finne resultatene av de konkrete kodene (deskriptiv statistikk og regresjonsresultater). 
+I R-scriptet beskriver jeg hva kodene gjør og i hvilket delkapittel i oppgaven man kan finne resultatene fra de konkrete kodene (deskriptiv statistikk og regresjonsresultater). 
 
 Kodene for de sivile sakene og straffesakene er adskilt, hvor jeg viser til kodene for de sivile sakene først. 
 
