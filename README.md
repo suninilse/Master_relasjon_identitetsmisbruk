@@ -1,5 +1,5 @@
-Kvantitativ analyse - Master om identitetsmisbruk begått av nærstående
-
+# Kvantitativ analyse - Master om identitetsmisbruk begått av nærstående
+---
 R-scriptet viser fremgangsmåten og kodene jeg har anvendt i det kvantitative analysearbeidet
 
 I R-scriptet beskriver jeg hva kodene gjør og i hvilket delkapittel i oppgaven man kan finne resultatene av de konkrete kodene (deskriptiv statistikk og regresjonsresultater). 
